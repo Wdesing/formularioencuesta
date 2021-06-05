@@ -1,0 +1,118 @@
+   {
+    margin:0;
+    padding:0;
+    box-sizing= border.box;
+ 
+    }  
+    
+    h1{
+        font-size: 40px;
+    }
+    
+   #title{
+       color: rgb(56, 175, 223);
+       text-align: center;
+       font-size: 50px;
+       
+   }
+    
+    #title:hover {
+        border-bottom: 1px solid rgb(22, 185, 235);
+        color: rgba(163, 170, 228, 0.575);
+        font-size: 44px;
+    
+    }
+       
+        
+    body {
+        width: 400px;
+        background: url(./image/VETISURE-POSTER-cover-.jpg);
+        background-size: cover;       
+        padding: 0px;
+        margin: auto;
+        margin-top: 100px;
+        background-color: rgb(201, 247, 240);
+        border-radius: 40px;
+    }
+
+    
+
+    .formulario{
+        background:white
+
+    }
+    .formulario h2{
+        text-align: center;
+        color:  rgb(87, 179, 165);
+        font-size: 25px;
+    }
+
+    #formulario1 textarea{
+
+            align-content: center;
+        }        
+        
+        .solito {
+            color: white;
+            font-size: 17px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .solos{
+            color: white;
+            font-size: 17px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+
+        .datos{
+           width: 370px;
+           background: #b2c9c7;
+           padding: 10px;
+           border: 1px solid rgb(111, 253, 159);
+           border-radius: 8px;
+           margin: 0px 2px 16px 2px;
+           color: white;
+
+        
+        }
+
+        .Enviar{
+            background     
+        
+       
+        }
+
+        .boton{
+            background: white;
+            width:80px;
+            color:blank
+            font-size: 20px;
+        }
+
+        h3{
+            font-size: 40px;
+            color: rgb(87, 179, 165)e;
+
+        }
+
+        .Gracias:hover{
+            color:rgb(87, 179, 165)e ;
+            font-size: 55px;
+            text-align:center;
+        }
+
+        .textarea{
+            width: 387px;
+            margin: 3px 3px 3px 3px;
+        }
+
+        #img-div{
+            width: 800px;
+            height: 500px;
+            border-radius: 80px;
+            justify-content: center;
+        
+        }
+
+        
